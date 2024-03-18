@@ -3,6 +3,6 @@
 
 ## Vamos a aprender a renombrar archivos y carpetas de manera masiva
 
-- Con el siguiente codigo:
+- El siguiente código con las instrucciones:
 
 [Aqui el Código](https://github.com/MONZONPUNTOEXE/Modulo-Python-OS/blob/main/main.py)

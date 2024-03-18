@@ -1,9 +1,9 @@
 import os
 
-# Ir a la dirección deseada
-os.chdir('C:/Users/Moncho/Desktop/Cambiar nombre de forma masiva/archivos')
+# Ir a la dirección deseada, donde tenemos nuestros archivos
+os.chdir('C:/.../.../Cambiar nombre de forma masiva/archivos')
 
-# Para saber en que dirección estamos
+# Para saber en que dirección estamos "os.getcwd()"
 # print(os.getcwd())
 
 numero = 0
